@@ -1,0 +1,28 @@
+print("WELCOME TO MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+place1 = input("Enter a place eg.Town/City ")
+object1 = input("Enter a mode of transport that doesnt travel on roads eg.Boat ")
+size1 = input("Enter a size of something eg.Big/small ")
+building1 = input("Enter a building eg.Skyscraper ")
+adjective1 = input("Enter an adjective of an object eg.Tall/Shiny ")
+building2 = input("Enter a building")
+country1 = input("Enter the name of a country, you can make one up if you want to ")
+people1 = input("Enter the name of a type of people eg.Japanese, Christians ")
+percent1 = input("Say a random percent")
+statement1 = input("Say a meme inside Trinity School")
+
+
+
+print("")
+print("Here is your own story")
+print("")
+print("On a sunny morning in" ,place1, "a" ,object1, "crashed into a" ,size1, building1, ".")
+print("After the" ,object1, "crashed into the" ,building1, "a second attack on the" ,adjective1 ,building2, "came in and destroyed the" ,building2, "into smithereens.")
+print("This major attack was a big moment in" ,country1,"'s history and will always be remembered.")
+print("And of course, the people to blame are the" ,people1,".")
+
+
+print("The" ,statement1, "meme is" ,size1, ".")
+print("Your rizz level has a" ,percent1, "success rate.")
