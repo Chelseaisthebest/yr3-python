@@ -2,16 +2,16 @@ print("WELCOME TO MAD-LIB")
 print("Please answer the following questions")
 print("")
 
-place1 = input("Enter a place eg.Town/City ")
-object1 = input("Enter a mode of transport that doesnt travel on roads eg.Boat ")
-size1 = input("Enter a size of something eg.Big/small ")
-building1 = input("Enter a building eg.Skyscraper ")
-adjective1 = input("Enter an adjective of an object eg.Tall/Shiny ")
-building2 = input("Enter a building")
-country1 = input("Enter the name of a country, you can make one up if you want to ")
-people1 = input("Enter the name of a type of people eg.Japanese, Christians ")
-percent1 = input("Say a random percent")
-statement1 = input("Say a meme inside Trinity School")
+place1 = input("Enter a place eg.Town/City: ")
+object1 = input("Enter a mode of transport that doesnt travel on roads eg.Boat: ")
+size1 = input("Enter a size of something eg.Big/small: ")
+building1 = input("Enter a building eg.Skyscraper: ")
+adjective1 = input("Enter an adjective of an object eg.Tall/Shiny: ")
+building2 = input("Enter a building: ")
+country1 = input("Enter the name of a country, you can make one up if you want to: ")
+people1 = input("Enter the name of a type of people eg.Japanese, Christians: ")
+percent1 = input("Say a random percent from 1 to 100: ")
+statement1 = input("Say a meme inside Trinity School: ")
 
 
 
@@ -25,4 +25,4 @@ print("And of course, the people to blame are the" ,people1,".")
 
 
 print("The" ,statement1, "meme is" ,size1, ".")
-print("Your rizz level has a" ,percent1, "success rate.")
+print("Your rizz level has a" ,percent1, "% success rate.")
