@@ -1,0 +1,14 @@
+print("Press 1 for 1-player mode")
+print("Press 2 for 2-player mode")
+print("Press 3 for online")
+
+choice = int(input("Enter 1,2 or 3"))
+
+if choice == 1: 
+   print("Thank you for chosing 1-player mode")
+elif choice == 2: 
+   print("Thank you for chosing 2-player mode")
+elif choice == 3:
+   print("Thank you for chosing online mode")
+else:
+   print("That number is invalid")
