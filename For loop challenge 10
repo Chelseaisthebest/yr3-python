@@ -1,0 +1,7 @@
+numHouses = int(input("How many houses are booked in?>>> "))
+for i in range(1, numHouses+1):
+   print("for house", i)
+   numWalls = int(input("How many walls to be painted?>>>"))
+   for i in range(1, numWalls+1):
+     print("for wall",i)
+     col = str(input("What colour is it?>>>"))
